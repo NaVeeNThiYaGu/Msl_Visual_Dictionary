@@ -15,23 +15,23 @@ Delete word
 
 # Setup
 
-git clone 
+1) git clone 
 
 cd Msl_Viusal_Dictionary
 
-cd backend
+2) cd backend
 
 npm install
 
-Update your Mongo_Uri in .env
+3) Update your Mongo_Uri in .env
 
 MONGO_URI=your_mongodb_connection_string
 
 PORT=5000
 
-npm start
+4) npm start
 
-cd client
+5) cd client
 npm install
 
-npm run dev
+6) npm run dev
