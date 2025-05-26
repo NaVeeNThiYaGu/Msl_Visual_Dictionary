@@ -2,6 +2,8 @@
 
 A simple MERN stack application to search, add, edit, and delete sign language words with definitions, images, and videos.
 
+![Screenshot](client/public/img-1.png)
+
 ## Features
 Home Page with Search Bar
 
