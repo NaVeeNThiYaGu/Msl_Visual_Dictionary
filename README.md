@@ -7,7 +7,9 @@ A simple MERN stack application to search, add, edit, and delete sign language w
 ## Features
 Home Page with Search Bar
 
-[![Watch the video](thumbnail.jpg)](https://github.com/NaVeeNThiYaGu/Msl_Visual_Dictionary/blob/master/client/public/2025-05-26%2015-50-36.mp4)
+## Demo Video
+[![Watch the video](https://github.com/NaVeeNThiYaGu/Msl_Visual_Dictionary/blob/master/client/public/img-1.png)](https://github.com/NaVeeNThiYaGu/Msl_Visual_Dictionary/blob/master/client/public/2025-05-26%2015-50-36.mp4)
+
 
 Search by word
 
