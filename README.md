@@ -1,8 +1,8 @@
-## Mini Sign Language Visual Dictionary
+# Mini Sign Language Visual Dictionary
 
 A simple MERN stack application to search, add, edit, and delete sign language words with definitions, images, and videos.
 
-# Features
+## Features
 Home Page with Search Bar
 
 Search by word
@@ -15,15 +15,18 @@ Delete word
 
 # Setup
 
-git clone https://github.com/yourusername/sign-language-dictionary.git
+git clone 
+
 cd Msl_Viusal_Dictionary
 
 cd backend
+
 npm install
 
 Update your Mongo_Uri in .env
 
 MONGO_URI=your_mongodb_connection_string
+
 PORT=5000
 
 npm start
